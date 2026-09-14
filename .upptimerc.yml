@@ -1,6 +1,13 @@
 owner: HephX
 repo: salitech-status
 
+
+secrets:
+  - NOTIFICATION_TELEGRAM
+  - NOTIFICATION_TELEGRAM_BOT_KEY
+  - NOTIFICATION_TELEGRAM_CHAT_ID
+
+  
 sites:
   - name: Salitech Website
     url: https://salitech.de
