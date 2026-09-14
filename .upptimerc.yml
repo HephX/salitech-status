@@ -21,8 +21,6 @@ sites:
   - name: Analytics
     url: https://analytics.salitech.de
   
-  - name: Telegram Notification Test
-    url: https://example.com
 
 status-website:
   cname: status.salitech.de
