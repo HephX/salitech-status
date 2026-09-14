@@ -7,7 +7,7 @@ secrets:
   - NOTIFICATION_TELEGRAM_BOT_KEY
   - NOTIFICATION_TELEGRAM_CHAT_ID
 
-  
+
 sites:
   - name: Salitech Website
     url: https://salitech.de
@@ -20,6 +20,9 @@ sites:
 
   - name: Analytics
     url: https://analytics.salitech.de
+  
+  - name: Telegram Notification Test
+    url: https://example.invalid
 
 status-website:
   cname: status.salitech.de
