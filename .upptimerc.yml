@@ -17,6 +17,12 @@ sites:
 status-website:
   cname: status.salitech.de
   name: Salitech Status
+  theme: light
+  themeUrl: https://status.salitech.de/salitech-theme.css
+  # Add official Salitech assets here when available:
+  # logoUrl: https://status.salitech.de/salitech-logo.svg
+  # favicon: https://status.salitech.de/favicon.png
+  # faviconSvg: https://status.salitech.de/favicon.svg
   introTitle: "Salitech Systemstatus"
   introMessage: "Aktuelle Informationen zur Verfügbarkeit der Salitech-Plattform und ihrer Dienste."
 
@@ -25,3 +31,40 @@ status-website:
       href: /
     - title: Salitech
       href: https://salitech.de
+
+i18n:
+  activeIncidents: Aktuelle Störungen
+  allSystemsOperational: Alle Systeme sind betriebsbereit
+  incidentReport: "Störungsbericht #$NUMBER →"
+  activeIncidentSummary: Eröffnet am $DATE mit $POSTS Beiträgen
+  incidentTitle: Störung #$NUMBER
+  incidentDetails: Störungsdetails
+  incidentFixed: Behoben
+  incidentOngoing: Laufend
+  incidentOpenedAt: Eröffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Auf GitHub ansehen und abonnieren
+  incidentCommentSummary: Veröffentlicht am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Störungen
+  pastIncidents: Vergangene Störungen
+  pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Beiträgen behoben
+  liveStatus: Systemstatus
+  overallUptime: "Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Verfügbarkeit
+  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Antwortzeit
+  sevelDayResponseTime: Antwortzeit der letzten 7 Tage
+  responseTimeMs: Antwortzeit (ms)
+  up: Betriebsbereit
+  down: Nicht verfügbar
+  degraded: Eingeschränkt
+  ms: ms
+  loading: Wird geladen
+  pastScheduledMaintenance: Vergangene geplante Wartungen
+  scheduledMaintenance: Geplante Wartung
+  duration24H: 24 Std.
+  duration7D: 7 Tage
+  duration30D: 30 Tage
+  duration1Y: 1 Jahr
+  durationAll: Gesamt
+  locale: de-DE
