@@ -1,0 +1,66 @@
+:root {
+  --body-background-color: #f7f9fb;
+  --body-text-color: #17212b;
+  --card-background-color: #ffffff;
+  --nav-background-color: #ffffff;
+  --nav-border-bottom-color: #e5eaf0;
+  --nav-current-border-bottom-color: #0a7f68;
+  --card-border-color: #e5eaf0;
+  --down-border-left-color: #c83c4d;
+  --down-background-color: #fff1f2;
+  --degraded-border-left-color: #b7791f;
+  --up-border-left-color: #0a946f;
+  --tag-color: #ffffff;
+  --tag-up-background-color: #0a946f;
+  --tag-down-background-color: #c83c4d;
+  --tag-degraded-background-color: #b7791f;
+  --change-background-color: #fff3cd;
+  --error-button-border-color: #0a7f68;
+  --error-button-background-color: #0a7f68;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #0a7f68;
+  --submit-button-background-color: #0a7f68;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 0.9;
+  --graph-filter: none;
+}
+
+body {
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  letter-spacing: 0;
+}
+
+nav {
+  box-shadow: 0 1px 0 rgba(23, 33, 43, 0.03);
+}
+
+main.container {
+  padding-top: 3.5rem;
+  padding-bottom: 4rem;
+}
+
+header h1 {
+  letter-spacing: 0;
+  font-weight: 700;
+}
+
+.lead {
+  color: #5f6b76;
+}
+
+section.card,
+.live-status > div {
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(23, 33, 43, 0.045);
+}
+
+footer {
+  color: #71808c;
+}
+
+@media (max-width: 640px) {
+  main.container {
+    padding-top: 2rem;
+    padding-bottom: 2.5rem;
+  }
+}
