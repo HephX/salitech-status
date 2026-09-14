@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 631,
-    "timeWeek": 631,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "time": 610,
+    "timeDay": 610,
+    "timeWeek": 610,
+    "timeMonth": 610,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/example.com.ico",
     "slug": "telegram-notification-test",
     "status": "up",
-    "uptime": "17.18%",
-    "uptimeDay": "17.18%",
-    "uptimeWeek": "17.18%",
-    "uptimeMonth": "17.18%",
-    "uptimeYear": "17.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 43,
     "timeDay": 43,
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {
-      "2026-09-14": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
