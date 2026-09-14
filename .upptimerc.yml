@@ -5,10 +5,10 @@ sites:
   - name: Salitech Website
     url: https://salitech.de
 
-  - name: Salitech Dashboard
+  - name: Kundenportal
     url: https://app.salitech.de
 
-  - name: Automation
+  - name: Automatisierung
     url: https://automation.salitech.de
 
   - name: Analytics
@@ -17,8 +17,8 @@ sites:
 status-website:
   cname: status.salitech.de
   name: Salitech Status
-  introTitle: "Salitech System Status"
-  introMessage: "Aktueller Betriebsstatus der Salitech-Dienste."
+  introTitle: "Salitech Systemstatus"
+  introMessage: "Aktuelle Informationen zur Verfügbarkeit der Salitech-Plattform und ihrer Dienste."
 
   navbar:
     - title: Status
