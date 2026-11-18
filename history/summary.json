@@ -40,19 +40,19 @@
     "url": "https://automation.salitech.de",
     "icon": "https://icons.duckduckgo.com/ip3/automation.salitech.de.ico",
     "slug": "automatisierung",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 685,
-    "timeDay": 809,
-    "timeWeek": 706,
-    "timeMonth": 735,
-    "timeYear": 685,
+    "time": 959,
+    "timeDay": 10594,
+    "timeWeek": 3165,
+    "timeMonth": 1349,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2026-11-18": 5
+      "2026-11-18": 8
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://analytics.salitech.de",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.salitech.de.ico",
     "slug": "analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 708,
-    "timeWeek": 568,
-    "timeMonth": 621,
-    "timeYear": 597,
+    "time": 596,
+    "timeDay": 612,
+    "timeWeek": 561,
+    "timeMonth": 618,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2026-11-18": 0
+      "2026-11-18": 4
     }
   }
 ]
